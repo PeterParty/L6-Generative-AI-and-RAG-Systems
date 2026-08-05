@@ -7,8 +7,8 @@
 - Understand hallucination risks
 
 ## Topics
-- [] Transformer architecure (conceptual)
-- [] Prompt engineering
+- Transformer architecure (conceptual)
+- Prompt engineering
 - Embeddings
 - Vector similarity
 - RAG architecures
@@ -16,12 +16,13 @@
 
 ## Resources
 * OpenAI documentation:
-
+https://developers.openai.com/api/docs
 
 * LangChain:
-
+https://docs.langchain.com/oss/python/langchain/overview
 
 * LlamaIndex:
+https://developers.llamaindex.ai/python/framework/#_top
 
 # Practice Project - Document Q&A RAG System
 
