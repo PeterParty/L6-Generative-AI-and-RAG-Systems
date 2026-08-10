@@ -2,26 +2,33 @@
 
 ## Objectives
 - Understand how LLMs work
+    -[What are large language models (LLMs)?](https://www.ibm.com/think/topics/large-language-models)
 - Impelement RAG pipeline
+    - [How to build a RAG pipeline: А step-by-step guide](https://www.meilisearch.com/blog/how-to-build-a-rag-pipepline)
+    - [Build a Simple RAG Pipeline in 30 Minutes!](https://www.youtube.com/watch?v=gcqp3Fbv4_o)
 - Work with embeddings
+
 - Understand hallucination risks
 
+
 ## Topics
-- [] Transformer architecure (conceptual)
-- [] Prompt engineering
+- Transformer architecure (conceptual)
+- Prompt engineering
 - Embeddings
 - Vector similarity
 - RAG architecures
+    - [RAG Architecture](https://www.geeksforgeeks.org/nlp/rag-architecture/)
 - Chunking strategies 
 
 ## Resources
 * OpenAI documentation:
-
+https://developers.openai.com/api/docs
 
 * LangChain:
-
+https://docs.langchain.com/oss/python/langchain/overview
 
 * LlamaIndex:
+https://developers.llamaindex.ai/python/framework/#_top
 
 # Practice Project - Document Q&A RAG System
 
