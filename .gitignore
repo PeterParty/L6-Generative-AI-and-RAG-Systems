@@ -1,11 +1,12 @@
 .env
+.venv/
+.venv2/
 Companies.csv
 .vscode/
 data/Cubul Rubik - Wikipedia.html
 data/Fluier - Wikipedia.html
 data/Rubik's Cube - Wikipedia.html
 data/Rubik's Cube group - Wikipedia.html
-.venv2/
 realistic_restaurant_reviews.csv
 __pycache__/vector.cpython-312.pyc
 chrome_langchain_db/chroma.sqlite3
@@ -13,3 +14,13 @@ chrome_langchain_db/1bb1bbb2-02e6-4564-8800-e6249b1ee9b2/data_level0.bin
 chrome_langchain_db/1bb1bbb2-02e6-4564-8800-e6249b1ee9b2/header.bin
 chrome_langchain_db/1bb1bbb2-02e6-4564-8800-e6249b1ee9b2/length.bin
 chrome_langchain_db/1bb1bbb2-02e6-4564-8800-e6249b1ee9b2/link_lists.bin
+data/cursuri_TRA/
+data/cursuri_TRA.zip
+text_chunking.ipynb
+chroma_db/chroma.sqlite3
+chroma_db/8faf3c85-260b-4a51-85fc-88d60a2064ec/data_level0.bin
+chroma_db/8faf3c85-260b-4a51-85fc-88d60a2064ec/header.bin
+chroma_db/8faf3c85-260b-4a51-85fc-88d60a2064ec/length.bin
+chroma_db/8faf3c85-260b-4a51-85fc-88d60a2064ec/link_lists.bin
+.ipynb_checkpoints/notebook-checkpoint.ipynb
+chroma_db/8faf3c85-260b-4a51-85fc-88d60a2064ec/index_metadata.pickle
