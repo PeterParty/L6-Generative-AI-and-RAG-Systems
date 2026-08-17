@@ -30,20 +30,30 @@ https://docs.langchain.com/oss/python/langchain/overview
 * LlamaIndex:
 https://developers.llamaindex.ai/python/framework/#_top
 
+* Ollama documentation:
+https://docs.ollama.com/
+
 # Practice Project - Document Q&A RAG System
 
 ## Requirements
-* WebScrapping some wikepedia pages on a specific topic/scrap a small website 
-* Text chunking
-* Generate embeddings
-* Retrieve top-k relevant chunks
-* Generate response
+* [X]WebScrapping some wikepedia pages on a specific topic/scrap a small website 
+* [x]Text chunking
+* [x]Generate embeddings
+* [X]Retrieve top-k relevant chunks
+* [X]Generate response
+
+Adaugate de mine 
+* local agent : `gemma3:latest`
 
 ## Must Include 
 * Similarity score explanation
 * Chunk size experimentation
 * Failure case analysis
 * Hallucination example
+
+    
+
+
 
 ### Area 
 - [Generative AI](https://www.geeksforgeeks.org/artificial-intelligence/what-is-generative-ai/)
@@ -58,3 +68,5 @@ https://developers.llamaindex.ai/python/framework/#_top
 - Document Q&A System
     - [LlamaIndex](https://www.llamaindex.ai/glossary/document-question-answering)
     - [Smart Cube](https://www.thesmartcube.com/ai-lab/experiments/document-qa-system/)
+
+    > **Notă:** Acesta este un text simplu încadrat.
