@@ -36,11 +36,11 @@ https://docs.ollama.com/
 # Practice Project - Document Q&A RAG System
 
 ## Requirements
-* [X]WebScrapping some wikepedia pages on a specific topic/scrap a small website 
+* [x]WebScrapping some wikepedia pages on a specific topic/scrap a small website 
 * [x]Text chunking
 * [x]Generate embeddings
-* [X]Retrieve top-k relevant chunks
-* [X]Generate response
+* [x]Retrieve top-k relevant chunks
+* [x]Generate response
 
 Adaugate de mine 
 * local agent : `gemma3:latest`
@@ -69,4 +69,4 @@ Adaugate de mine
     - [LlamaIndex](https://www.llamaindex.ai/glossary/document-question-answering)
     - [Smart Cube](https://www.thesmartcube.com/ai-lab/experiments/document-qa-system/)
 
-    > **Notă:** Acesta este un text simplu încadrat.
+    <!-- > **Notă:** Acesta este un text simplu încadrat. -->
