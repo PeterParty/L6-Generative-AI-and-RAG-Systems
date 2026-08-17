@@ -36,11 +36,11 @@ https://docs.ollama.com/
 # Practice Project - Document Q&A RAG System
 
 ## Requirements
-* [x]WebScrapping some wikepedia pages on a specific topic/scrap a small website 
-* [x]Text chunking
-* [x]Generate embeddings
-* [x]Retrieve top-k relevant chunks
-* [x]Generate response
+* [x] WebScrapping some wikepedia pages on a specific topic/scrap a small website 
+* [x] Text chunking
+* [x] Generate embeddings
+* [x] Retrieve top-k relevant chunks
+* [x] Generate response
 
 Adaugate de mine 
 * local agent : `gemma3:latest`
